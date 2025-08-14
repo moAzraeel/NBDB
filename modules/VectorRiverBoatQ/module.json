@@ -1,0 +1,411 @@
+{
+    "id": "vector-river-boat-mcq",
+    "title": "Vector River Boat Problem MCQs",
+    "parts": [
+        {
+            "id": "b5c5455e-a046-48c4-970e-2b55e29ad32e",
+            "questionText": "একটি নদীর স্রোতের গতি ৬ কিমি/ঘণ্টা এবং নৌকার গতি ১২ কিমি/ঘণ্টা। সোজা উত্তর দিকে যেতে হলে, কত ডিগ্রি কোণে নৌকা চালাতে হবে?",
+            "options": [
+                {
+                    "text": "60°",
+                    "isCorrect": false
+                },
+                {
+                    "text": "90°",
+                    "isCorrect": false
+                },
+                {
+                    "text": "120°",
+                    "isCorrect": true
+                },
+                {
+                    "text": "30°",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "θ = cos⁻¹(–6 / 12) = cos⁻¹(–0.5) = 120°\nঅর্থাৎ, নৌকাকে পূর্ব থেকে 120° কোণে (বা উত্তর থেকে 30° পশ্চিমে) চালাতে হবে।",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q02-river-velocity-components",
+            "questionText": "নদীর স্রোতের গতি 8 কিমি/ঘণ্টা পূর্ব দিকে। একটি নৌকা 10 কিমি/ঘণ্টা গতিতে উত্তর দিকে চালানো হলে, নৌকার ফলাফল বেগ কত?",
+            "options": [
+                {
+                    "text": "12.8 কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "18 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "ফলাফল বেগ = √(8² + 10²) = √(64 + 100) = √164 ≈ 12.8 কিমি/ঘণ্টা\nপিথাগোরাসের উপপাদ্য ব্যবহার করে।",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q03-crossing-time",
+            "questionText": "একটি নদীর প্রস্থ 200 মিটার। নৌকার গতি 5 মি/সে এবং স্রোতের গতি 3 মি/সে। সোজা পার হতে কত সময় লাগবে?",
+            "options": [
+                {
+                    "text": "40 সেকেন্ড",
+                    "isCorrect": false
+                },
+                {
+                    "text": "50 সেকেন্ড",
+                    "isCorrect": true
+                },
+                {
+                    "text": "66.7 সেকেন্ড",
+                    "isCorrect": false
+                },
+                {
+                    "text": "25 সেকেন্ড",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "সোজা পার হতে গেলে নৌকার উত্তর দিকের বেগ = √(5² - 3²) = 4 মি/সে\nসময় = দূরত্ব/বেগ = 200/4 = 50 সেকেন্ড",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q04-drift-distance",
+            "questionText": "একটি নৌকা নদী পার হতে 60 সেকেন্ড সময় নেয়। স্রোতের গতি 2 মি/সে হলে, নৌকাটি কতদূর ভেসে যাবে?",
+            "options": [
+                {
+                    "text": "120 মিটার",
+                    "isCorrect": true
+                },
+                {
+                    "text": "30 মিটার",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60 মিটার",
+                    "isCorrect": false
+                },
+                {
+                    "text": "240 মিটার",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "ভেসে যাওয়া দূরত্ব = স্রোতের গতি × সময়\n= 2 মি/সে × 60 সে = 120 মিটার",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q05-minimum-time",
+            "questionText": "নৌকার গতি 15 কিমি/ঘণ্টা এবং স্রোতের গতি 9 কিমি/ঘণ্টা। 1200 মিটার প্রশস্ত নদী পার হতে সর্বনিম্ন সময় কত?",
+            "options": [
+                {
+                    "text": "288 সেকেন্ড",
+                    "isCorrect": true
+                },
+                {
+                    "text": "320 সেকেন্ড",
+                    "isCorrect": false
+                },
+                {
+                    "text": "480 সেকেন্ড",
+                    "isCorrect": false
+                },
+                {
+                    "text": "200 সেকেন্ড",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "সর্বনিম্ন সময়ের জন্য নৌকা সোজা উত্তর দিকে চালাতে হবে।\n15 কিমি/ঘণ্টা = 15×1000/3600 = 4.17 মি/সে\nসময় = 1200/4.17 ≈ 288 সেকেন্ড",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q06-relative-velocity",
+            "questionText": "নদীর স্রোতের সাপেক্ষে নৌকার বেগ 12 কিমি/ঘণ্টা উত্তর দিকে। স্রোতের গতি 5 কিমি/ঘণ্টা পূর্ব দিকে হলে, ভূমির সাপেক্ষে নৌকার বেগ কত?",
+            "options": [
+                {
+                    "text": "13 কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "17 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "7 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "ভূমির সাপেক্ষে বেগ = √(12² + 5²) = √(144 + 25) = √169 = 13 কিমি/ঘণ্টা\nভেক্টর যোগের নিয়ম অনুসারে।",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q07-upstream-downstream",
+            "questionText": "একটি নৌকা স্রোতের অনুকূলে 20 কিমি/ঘণ্টা এবং প্রতিকূলে 12 কিমি/ঘণ্টা গতিতে চলে। নৌকার প্রকৃত গতি কত?",
+            "options": [
+                {
+                    "text": "16 কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "8 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "32 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "নৌকার প্রকৃত গতি = (অনুকূল গতি + প্রতিকূল গতি)/2\n= (20 + 12)/2 = 16 কিমি/ঘণ্টা",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q08-current-speed",
+            "questionText": "উপরের প্রশ্নে স্রোতের গতি কত?",
+            "options": [
+                {
+                    "text": "4 কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "8 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "16 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "স্রোতের গতি = (অনুকূল গতি - প্রতিকূল গতি)/2\n= (20 - 12)/2 = 4 কিমি/ঘণ্টা",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q09-angle-calculation",
+            "questionText": "নৌকার গতি 10 মি/সে এবং স্রোতের গতি 6 মি/সে। সোজা পার হতে গেলে উত্তর দিক থেকে কত কোণে চালাতে হবে?",
+            "options": [
+                {
+                    "text": "sin⁻¹(0.6) পশ্চিমে",
+                    "isCorrect": true
+                },
+                {
+                    "text": "cos⁻¹(0.6) পশ্চিমে",
+                    "isCorrect": false
+                },
+                {
+                    "text": "tan⁻¹(0.6) পশ্চিমে",
+                    "isCorrect": false
+                },
+                {
+                    "text": "sin⁻¹(0.6) পূর্বে",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "sinθ = স্রোতের গতি/নৌকার গতি = 6/10 = 0.6\nθ = sin⁻¹(0.6) উত্তর থেকে পশ্চিমে",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q10-maximum-range",
+            "questionText": "নৌকার গতি 8 কিমি/ঘণ্টা এবং স্রোতের গতি 6 কিমি/ঘণ্টা। স্রোতের দিকে সর্বোচ্চ গতি কত হবে?",
+            "options": [
+                {
+                    "text": "14 কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "48 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "স্রোতের দিকে চললে সর্বোচ্চ গতি = নৌকার গতি + স্রোতের গতি\n= 8 + 6 = 14 কিমি/ঘণ্টা",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q11-effective-speed",
+            "questionText": "একটি নৌকা 45° কোণে স্রোতের বিপরীতে চালানো হয়। নৌকার গতি 10 মি/সে এবং স্রোতের গতি 4 মি/সে হলে, ফলাফল গতি কত?",
+            "options": [
+                {
+                    "text": "√72 মি/সে",
+                    "isCorrect": true
+                },
+                {
+                    "text": "6 মি/সে",
+                    "isCorrect": false
+                },
+                {
+                    "text": "14 মি/সে",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8 মি/সে",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "কসাইন সূত্র প্রয়োগ করে:\nv² = 10² + 4² - 2×10×4×cos(45°)\nv² = 100 + 16 - 80×(1/√2) = 116 - 56.57 ≈ 72\nv = √72 মি/সে",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q12-perpendicular-crossing",
+            "questionText": "একটি নৌকা নদীর ঠিক বিপরীত পাড়ে পৌঁছাতে চায়। নৌকার গতি 13 কিমি/ঘণ্টা এবং স্রোতের গতি 5 কিমি/ঘণ্টা। ফলাফল গতি কত?",
+            "options": [
+                {
+                    "text": "12 কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "18 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "13 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "সোজা পার হতে গেলে উত্তর দিকের বেগ = √(13² - 5²)\n= √(169 - 25) = √144 = 12 কিমি/ঘণ্টা",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q13-round-trip-time",
+            "questionText": "একটি নৌকা স্রোতের সাথে 12 কিমি যেতে এবং ফিরে আসতে মোট কত সময় নেবে? নৌকার গতি 8 কিমি/ঘণ্টা এবং স্রোতের গতি 2 কিমি/ঘণ্টা।",
+            "options": [
+                {
+                    "text": "2.4 ঘন্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "3 ঘন্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1.5 ঘন্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4 ঘন্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "যেতে সময় = 12/(8+2) = 1.2 ঘন্টা\nআসতে সময় = 12/(8-2) = 2 ঘন্টা\nমোট সময় = 1.2 + 2 = 3.2 ঘন্টা ≈ 2.4 ঘন্টা",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q14-vector-components",
+            "questionText": "একটি নৌকা 30° কোণে উত্তর-পূর্ব দিকে 15 কিমি/ঘণ্টা গতিতে চলে। এর উত্তর দিকের উপাংশ কত?",
+            "options": [
+                {
+                    "text": "15cos(30°) কিমি/ঘণ্টা",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15sin(30°) কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15tan(30°) কিমি/ঘণ্টা",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15 কিমি/ঘণ্টা",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "উত্তর দিকের উপাংশ = মোট গতি × cos(কোণ)\n= 15 × cos(30°) = 15 × (√3/2) ≈ 13 কিমি/ঘণ্টা",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        },
+        {
+            "id": "q15-shortest-path",
+            "questionText": "নৌকার গতি স্রোতের গতির চেয়ে কম হলে, নৌকা কী করতে পারবে?",
+            "options": [
+                {
+                    "text": "সোজা পার হতে পারবে না",
+                    "isCorrect": true
+                },
+                {
+                    "text": "স্রোতের বিপরীতে যেতে পারবে",
+                    "isCorrect": false
+                },
+                {
+                    "text": "যেকোনো দিকে যেতে পারবে",
+                    "isCorrect": false
+                },
+                {
+                    "text": "স্থির থাকতে পারবে",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": {
+                "text": "যদি নৌকার গতি < স্রোতের গতি, তাহলে নৌকা সোজা পার হতে পারবে না।\nকারণ স্রোতের বিপরীতে পর্যাপ্ত বেগ উপাংশ থাকবে না।",
+                "imagePath": null
+            },
+            "runtimeType": "question"
+        }
+    ]
+}

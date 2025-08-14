@@ -1,0 +1,77 @@
+{
+    "id": "loading",
+    "title": "Loading Module...",
+    "parts": [
+        {
+            "id": "b50314ef-4bfd-4555-9133-adf9f80283d3",
+            "title": "ভেক্টর ক্যালকুলাস",
+            "description": "ভেক্টর ক্যালকুলাস হলো গণিতের এমন একটি শাখা যা বোঝায় কীভাবে কোনো পরিমাণ স্থান ও দিক পরিবর্তনের সময় আচরণ করে।\nস্কেলার: কোনো পরিমাণ যার দিক নেই, যেমন তাপমাত্রা\nভেক্টর: কোনো পরিমাণ যার দিক থাকে, যেমন বাতাসের গতি\n",
+            "lottiePath": null,
+            "imagePath": null,
+            "runtimeType": "initial"
+        },
+        {
+            "id": "8e699854-5dcc-45fd-9d2f-91e01641db6f",
+            "rivePath": "assets/modules/VectorCalculas/field.riv",
+            "artboard": "plate 2",
+            "stateMachineName": null,
+            "height": null,
+            "runtimeType": "riveInteractive"
+        },
+        {
+            "id": "2966c567-e9b0-4fb6-bfa7-f0416d49b916",
+            "content": "ভেক্টর ক্যালকুলাস দিয়ে আমরা বুঝি:\nকীভাবে কোনো স্কেলার দ্রুত বাড়ছে এবং কোন দিকেই (Gradient)\nকীভাবে কোনো ভেক্টর ক্ষেত্র ছড়াচ্ছে বা জমাচ্ছে (Divergence)\nকীভাবে কোনো ভেক্টর ক্ষেত্র ঘূর্ণায়মান (Curl) হচ্ছে",
+            "runtimeType": "text"
+        },
+        {
+            "id": "ace6e9fa-7471-4ae1-abae-683804d7a25f",
+            "title": "Gradient (গ্র্যাডিয়েন্ট) — দ্রুত বাড়ার দিক",
+            "description": "গ্র্যাডিয়েন্ট হলো সেই ভেক্টর যা কোনো স্কেলার ফাংশনের সবচেয়ে দ্রুত বাড়ার দিক এবং হার নির্দেশ করে।\nউদাহরণ:\nতুমি যদি পাহাড়ে হাঁটো, গ্র্যাডিয়েন্ট দেখায় সবচেয়ে খাড়া এবং দ্রুত উপরে ওঠার পথ।",
+            "lottiePath": null,
+            "imagePath": "assets/modules/VectorCalculas/gradient.gif",
+            "runtimeType": "initial"
+        },
+        {
+            "id": "88409d85-d727-44c0-8e9c-0c4088b0580c",
+            "imagePath": "assets/modules/VectorCalculas/Screenshot 2025-08-08 at 2.39.51 AM.png",
+            "height": null,
+            "caption": null,
+            "runtimeType": "image"
+        },
+        {
+            "id": "5f4c3fc2-3f9e-4b82-83ec-230edbfaba29",
+            "title": "Divergence (ডাইভার্জেন্স) — ছড়িয়ে পড়া বা জমা থাকা",
+            "description": "ডাইভার্জেন্স কোনো পয়েন্ট থেকে ভেক্টর ক্ষেত্র ছড়াচ্ছে (বাহির যাচ্ছে) নাকি জমছে (অভ্যন্তরীণ হচ্ছে) তা নির্দেশ করে।\nউদাহরণ:\nবেলুন থেকে বাতাস বের হওয়া → ধনাত্মক ডাইভার্জেন্স (ছড়িয়ে পড়া)\nনল থেকে পানি গড়িয়ে আসা → ঋণাত্মক ডাইভার্জেন্স (জমে থাকা)",
+            "lottiePath": null,
+            "imagePath": null,
+            "runtimeType": "initial"
+        },
+        {
+            "id": "a131dce2-126f-4e47-8419-bac72fc6cee3",
+            "imagePath": "assets/modules/VectorCalculas/Screenshot 2025-08-08 at 2.41.10 AM.png",
+            "height": null,
+            "caption": null,
+            "runtimeType": "image"
+        },
+        {
+            "id": "cc7cc1b7-7372-4c09-ad99-b643d213ef85",
+            "title": "Curl (কার্ল) — ঘূর্ণায়মান গতি",
+            "description": "কার্ল কোনো ভেক্টর ক্ষেত্রের ঘূর্ণায়মান গতির পরিমাণ ও অক্ষ নির্দেশ করে।\nউদাহরণ:\nঘূর্ণিঝড় (টর্নেডো) → উচ্চ কার্ল\nসরলভাবে বয়ে যাওয়া নদী → শূন্য বা কম কার্ল",
+            "lottiePath": null,
+            "imagePath": "assets/modules/VectorCalculas/curl.gif",
+            "runtimeType": "initial"
+        },
+        {
+            "id": "f7182429-65c8-408e-9189-7cf3f38ba528",
+            "imagePath": "assets/modules/VectorCalculas/Screenshot 2025-08-08 at 2.42.29 AM.png",
+            "height": null,
+            "caption": null,
+            "runtimeType": "image"
+        },
+        {
+            "id": "732afe1f-6d57-4eaa-8584-fe0a8a25ca92",
+            "content": "সংক্ষিপ্ত সারাংশ\n\nGradient\nদ্রুত বাড়ার দিক দেখায়\nপাহাড়ে ওঠার সবচেয়ে খাড়া পথ\n\nDivergence\nছড়াচ্ছে নাকি জমে আছে বুঝায়\nবেলুন থেকে বাতাস বের হওয়া\n\nCurl\nঘূর্ণায়মানতা বোঝায়\nঘূর্ণিঝড় বা টর্নেডো",
+            "runtimeType": "text"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": "chemistry-simple-test",
+    "title": "Simple Chemistry Test",
+    "parts": [
+        {
+            "id": "intro-simple",
+            "title": "Testing PDB Visualization",
+            "description": "This is a simple test module to ensure PDB visualization works correctly.",
+            "lottiePath": null,
+            "imagePath": "assets/images/chemIcon.png",
+            "runtimeType": "initial"
+        },
+        {
+            "id": "simple-water",
+            "content": "💧 Let's start with the simplest molecule - water!\n\nWater (H₂O) has just 3 atoms and demonstrates basic molecular geometry.",
+            "runtimeType": "text"
+        },
+        {
+            "id": "water-molecule-test",
+            "pdbPath": "assets/model/pdb/water.pdb",
+            "height": 300,
+            "explanation": "💧 Water (H₂O)\n\nThis is water - the most important molecule for life! The oxygen atom (red) is bonded to two hydrogen atoms (white) at an angle of about 104.5°.",
+            "title": "Water Molecule",
+            "runtimeType": "pdb"
+        },
+        {
+            "id": "simple-methane",
+            "content": "🔥 Now let's look at methane - the simplest hydrocarbon!",
+            "runtimeType": "text"
+        },
+        {
+            "id": "methane-molecule-test",
+            "pdbPath": "assets/model/pdb/methane.pdb",
+            "height": 300,
+            "explanation": "🔥 Methane (CH₄)\n\nMethane is the simplest hydrocarbon. The carbon atom (gray) is at the center with four hydrogen atoms (white) arranged in a tetrahedral shape.",
+            "title": "Methane - Simple Hydrocarbon",
+            "runtimeType": "pdb"
+        },
+        {
+            "id": "conclusion-simple",
+            "content": "🎉 Great! If you can see the water and methane molecules above, the PDB visualization is working correctly!\n\nBoth molecules should be rotating slowly and you should be able to interact with them using touch or mouse controls.",
+            "runtimeType": "text"
+        }
+    ]
+}
