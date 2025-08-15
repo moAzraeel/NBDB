@@ -1,7 +1,7 @@
 [
   {
     "id": "intermediate_science",
-    "title": "Physics",
+    "subject": "Physics",
     "iconName": {
       "codePoint": 60115,
       "fontFamily": "Remix",
@@ -10,7 +10,7 @@
     },
     "chapters": [
       {
-        "title": "Vectors",
+        "chapter": "Vectors",
         "iconName": {
           "codePoint": 61797,
           "fontFamily": "Remix",
@@ -23,7 +23,7 @@
   },
   {
     "id": "intermediate_science",
-    "title": "Math",
+    "subject": "Math",
     "iconName": {
       "codePoint": 60318,
       "fontFamily": "Remix",
@@ -32,7 +32,7 @@
     },
     "chapters": [
       {
-        "title": "Graphs (Chapter 8)",
+        "chapter": "Graphs (Chapter 8)",
         "iconName": {
           "codePoint": 61425,
           "fontFamily": "Remix",
@@ -45,7 +45,7 @@
   },
   {
     "id": "intermediate_science",
-    "title": "Chemistry",
+    "subject": "Chemistry",
     "iconName": {
       "codePoint": 60115,
       "fontFamily": "Remix",
@@ -54,7 +54,7 @@
     },
     "chapters": [
       {
-        "title": "3D Molecular Visualization",
+        "chapter": "3D Molecular Visualization",
         "iconName": {
           "codePoint": 61670,
           "fontFamily": "Remix",

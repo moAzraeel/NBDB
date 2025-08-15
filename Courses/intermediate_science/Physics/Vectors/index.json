@@ -1,31 +1,37 @@
 {
     "id": "intermediate_science",
-    "chapterName": "Vectors",
+    "subject": "Physics",
+    "chapter": "Vectors",
     "modules": [
         {
             "name": "VectorDotCross",
             "description": "Demonstrates dot and cross product with animations.",
-            "asset": "3D Shape Animation.json"
+            "asset": "3D Shape Animation.json",
+            "isPremium": false
         },
         {
             "name": "VectorRiverBoat",
             "description": "River boat problems and related vector concepts.",
-            "asset": "boatriver.riv"
+            "asset": "boatriver.riv",
+            "isPremium": false
         },
         {
             "name": "VectorCalculas",
             "description": "Covers vector calculus concepts and visualizations.",
-            "asset": "curl.gif"
+            "asset": "curl.gif",
+            "isPremium": false
         },
         {
             "name": "VectorDotCrossQ",
             "description": "Quiz or quick reference for dot and cross product.",
-            "asset": "useThisCross.gif"
+            "asset": "useThisCross.gif",
+            "isPremium": true
         },
         {
             "name": "VectorRiverBoatQ",
             "description": "Quiz or quick reference for river boat problems.",
-            "asset": "module.json"
+            "asset": "module.json",
+            "isPremium": true
         }
     ]
 }
