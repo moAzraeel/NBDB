@@ -1,21 +1,38 @@
 {
-    "Intermediate": [
-        "Science",
-        "Commerce",
-        "Arts"
-    ],
-    "9_10": [
-        "Science",
-        "Commerce",
-        "Arts"
-    ],
-    "Class_8": [
-        "General"
-    ],
-    "Class_7": [
-        "General"
-    ],
-    "Class_6": [
-        "General"
+    "levels": [
+        {
+            "level": "Intermediate",
+            "subjects": [
+                "Science",
+                "Commerce",
+                "Arts"
+            ]
+        },
+        {
+            "level": "9_10",
+            "subjects": [
+                "Science",
+                "Commerce",
+                "Arts"
+            ]
+        },
+        {
+            "level": "Class_8",
+            "subjects": [
+                "General"
+            ]
+        },
+        {
+            "level": "Class_7",
+            "subjects": [
+                "General"
+            ]
+        },
+        {
+            "level": "Class_6",
+            "subjects": [
+                "General"
+            ]
+        }
     ]
 }
