@@ -1,6 +1,7 @@
 {
-    "id": "loading",
-    "title": "Loading Module...",
+    "path": "root/HSC_Science/Physics/Vectors/VectorCalculas/module.json",
+    "id": "VectorCalculas",
+    "title": "Vector Calculus Concepts and Visualizations",
     "parts": [
         {
             "id": "b50314ef-4bfd-4555-9133-adf9f80283d3",

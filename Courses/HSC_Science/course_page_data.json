@@ -1,68 +1,69 @@
-[
-  {
-    "id": "HSC_Science",
-    "subject": "Physics",
-    "iconName": {
-      "codePoint": 60115,
-      "fontFamily": "Remix",
-      "fontPackage": "remixicon",
-      "matchTextDirection": false
-    },
-    "chapters": [
-      {
-        "chapter": "Vectors",
-        "iconName": {
-          "codePoint": 61797,
-          "fontFamily": "Remix",
-          "fontPackage": "remixicon",
-          "matchTextDirection": false
+{
+  "path": "root/HSC_Science/course_page_data.json",
+  "courseName": "HSC Science",
+  "subjects": [
+    {
+      "subject": "Physics",
+      "iconName": {
+        "codePoint": 60115,
+        "fontFamily": "Remix",
+        "fontPackage": "remixicon",
+        "matchTextDirection": false
+      },
+      "chapters": [
+        {
+          "chapter": "Vectors",
+          "iconName": {
+            "codePoint": 61797,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
         }
-      }
-    ],
-    "initiallyExpanded": false
-  },
-  {
-    "id": "HSC_Science",
-    "subject": "Math",
-    "iconName": {
-      "codePoint": 60318,
-      "fontFamily": "Remix",
-      "fontPackage": "remixicon",
-      "matchTextDirection": false
+      ],
+      "initiallyExpanded": false
     },
-    "chapters": [
-      {
-        "chapter": "Graphs (Chapter 8)",
-        "iconName": {
-          "codePoint": 61425,
-          "fontFamily": "Remix",
-          "fontPackage": "remixicon",
-          "matchTextDirection": false
+    {
+      "subject": "Math",
+      "iconName": {
+        "codePoint": 60318,
+        "fontFamily": "Remix",
+        "fontPackage": "remixicon",
+        "matchTextDirection": false
+      },
+      "chapters": [
+        {
+          "chapter": "Graphs (Chapter 8)",
+          "iconName": {
+            "codePoint": 61425,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
         }
-      }
-    ],
-    "initiallyExpanded": false
-  },
-  {
-    "id": "HSC_Science",
-    "subject": "Chemistry",
-    "iconName": {
-      "codePoint": 60115,
-      "fontFamily": "Remix",
-      "fontPackage": "remixicon",
-      "matchTextDirection": false
+      ],
+      "initiallyExpanded": false
     },
-    "chapters": [
-      {
-        "chapter": "3D Molecular Visualization",
-        "iconName": {
-          "codePoint": 61670,
-          "fontFamily": "Remix",
-          "fontPackage": "remixicon",
-          "matchTextDirection": false
+    {
+      "subject": "Chemistry",
+      "iconName": {
+        "codePoint": 60115,
+        "fontFamily": "Remix",
+        "fontPackage": "remixicon",
+        "matchTextDirection": false
+      },
+      "chapters": [
+        {
+          "chapter": "3D Molecular Visualization",
+          "iconName": {
+            "codePoint": 61670,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
         }
-      }
-    ],
-    "initiallyExpanded": false
-  }
-]
+      ],
+      "initiallyExpanded": false
+    }
+  ]
+}

@@ -38,10 +38,7 @@
             "level": "Job_Exams",
             "paths": [
                 "BCS",
-                "Banking",
-                "Railways",
-                "SSC",
-                "Defence"
+                "SSC"
             ]
         }
     ]

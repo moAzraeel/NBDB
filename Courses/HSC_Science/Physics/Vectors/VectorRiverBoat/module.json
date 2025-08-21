@@ -1,6 +1,7 @@
 {
-    "id": "loading",
-    "title": "Loading Module...",
+    "path": "root/HSC_Science/Physics/Vectors/VectorRiverBoat/module.json",
+    "id": "VectorRiverBoat",
+    "title": "River Boat Problems and Vector Concepts",
     "parts": [
         {
             "id": "57c60817-3b3d-42db-a7a2-db077ed52433",

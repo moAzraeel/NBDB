@@ -1,6 +1,7 @@
 {
-    "id": "loading",
-    "title": "Loading Module...",
+    "path": "root/HSC_Science/Physics/Vectors/VectorDotCross/module.json",
+    "id": "VectorDotCross",
+    "title": "Vector Dot and Cross Product",
     "parts": [
         {
             "id": "fdc15d83-0003-4c2c-8246-e003ef278ac8",
