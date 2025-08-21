@@ -1,0 +1,12 @@
+{
+    "id": "HSC_Science",
+    "subject": "Math",
+    "chapter": "Graphs (Chapter 8)",
+    "modules": [
+        {
+            "name": "Graph",
+            "description": "Graph theory and mathematical visualization",
+            "asset": "math.riv"
+        }
+    ]
+}

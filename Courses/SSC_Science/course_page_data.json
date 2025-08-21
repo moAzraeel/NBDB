@@ -10,7 +10,7 @@
     },
     "chapters": [
       {
-        "chapter": "Motion",
+        "chapter": "Physical Quantities and Their Measurements",
         "iconName": {
           "codePoint": 61797,
           "fontFamily": "Remix",
@@ -19,7 +19,7 @@
         }
       },
       {
-        "chapter": "Force and Laws of Motion",
+        "chapter": "Motion",
         "iconName": {
           "codePoint": 61797,
           "fontFamily": "Remix",
@@ -48,15 +48,6 @@
           "fontPackage": "remixicon",
           "matchTextDirection": false
         }
-      },
-      {
-        "chapter": "Algebra",
-        "iconName": {
-          "codePoint": 61425,
-          "fontFamily": "Remix",
-          "fontPackage": "remixicon",
-          "matchTextDirection": false
-        }
       }
     ],
     "initiallyExpanded": false
@@ -73,15 +64,6 @@
     "chapters": [
       {
         "chapter": "Matter in Our Surroundings",
-        "iconName": {
-          "codePoint": 61670,
-          "fontFamily": "Remix",
-          "fontPackage": "remixicon",
-          "matchTextDirection": false
-        }
-      },
-      {
-        "chapter": "Atoms and Molecules",
         "iconName": {
           "codePoint": 61670,
           "fontFamily": "Remix",

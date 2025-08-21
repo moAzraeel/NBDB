@@ -2,7 +2,7 @@
     "levels": [
         {
             "level": "HSC",
-            "subjects": [
+            "paths": [
                 "Science",
                 "Commerce",
                 "Arts"
@@ -10,7 +10,7 @@
         },
         {
             "level": "SSC",
-            "subjects": [
+            "paths": [
                 "Science",
                 "Commerce",
                 "Arts"
@@ -18,25 +18,25 @@
         },
         {
             "level": "Class_8",
-            "subjects": [
+            "paths": [
                 "General"
             ]
         },
         {
             "level": "Class_7",
-            "subjects": [
+            "paths": [
                 "General"
             ]
         },
         {
             "level": "Class_6",
-            "subjects": [
+            "paths": [
                 "General"
             ]
         },
         {
             "level": "Job_Exams",
-            "subjects": [
+            "paths": [
                 "BCS",
                 "Banking",
                 "Railways",

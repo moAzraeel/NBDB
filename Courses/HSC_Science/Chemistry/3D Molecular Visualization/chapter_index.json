@@ -1,0 +1,12 @@
+{
+    "id": "HSC_Science",
+    "subject": "Chemistry",
+    "chapter": "3D Molecular Visualization",
+    "modules": [
+        {
+            "name": "Chemistry3D",
+            "description": "3D molecular visualization and interactive chemistry models",
+            "asset": "simple_test.json"
+        }
+    ]
+}
