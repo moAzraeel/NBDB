@@ -33,6 +33,16 @@
             "subjects": [
                 "General"
             ]
+        },
+        {
+            "level": "Job_Exams",
+            "subjects": [
+                "BCS",
+                "Banking",
+                "Railways",
+                "SSC",
+                "Defence"
+            ]
         }
     ]
 }
