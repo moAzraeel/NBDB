@@ -1,6 +1,6 @@
 [
   {
-    "id": "intermediate_science",
+    "id": "HSC_Science",
     "subject": "Physics",
     "iconName": {
       "codePoint": 60115,
@@ -22,7 +22,7 @@
     "initiallyExpanded": false
   },
   {
-    "id": "intermediate_science",
+    "id": "HSC_Science",
     "subject": "Math",
     "iconName": {
       "codePoint": 60318,
@@ -44,7 +44,7 @@
     "initiallyExpanded": false
   },
   {
-    "id": "intermediate_science",
+    "id": "HSC_Science",
     "subject": "Chemistry",
     "iconName": {
       "codePoint": 60115,

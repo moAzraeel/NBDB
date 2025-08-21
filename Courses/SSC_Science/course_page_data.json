@@ -1,0 +1,95 @@
+[
+  {
+    "id": "SSC_Science",
+    "subject": "Physics",
+    "iconName": {
+      "codePoint": 60115,
+      "fontFamily": "Remix",
+      "fontPackage": "remixicon",
+      "matchTextDirection": false
+    },
+    "chapters": [
+      {
+        "chapter": "Motion",
+        "iconName": {
+          "codePoint": 61797,
+          "fontFamily": "Remix",
+          "fontPackage": "remixicon",
+          "matchTextDirection": false
+        }
+      },
+      {
+        "chapter": "Force and Laws of Motion",
+        "iconName": {
+          "codePoint": 61797,
+          "fontFamily": "Remix",
+          "fontPackage": "remixicon",
+          "matchTextDirection": false
+        }
+      }
+    ],
+    "initiallyExpanded": false
+  },
+  {
+    "id": "SSC_Science",
+    "subject": "Math",
+    "iconName": {
+      "codePoint": 60318,
+      "fontFamily": "Remix",
+      "fontPackage": "remixicon",
+      "matchTextDirection": false
+    },
+    "chapters": [
+      {
+        "chapter": "Number Systems",
+        "iconName": {
+          "codePoint": 61425,
+          "fontFamily": "Remix",
+          "fontPackage": "remixicon",
+          "matchTextDirection": false
+        }
+      },
+      {
+        "chapter": "Algebra",
+        "iconName": {
+          "codePoint": 61425,
+          "fontFamily": "Remix",
+          "fontPackage": "remixicon",
+          "matchTextDirection": false
+        }
+      }
+    ],
+    "initiallyExpanded": false
+  },
+  {
+    "id": "SSC_Science",
+    "subject": "Chemistry",
+    "iconName": {
+      "codePoint": 60115,
+      "fontFamily": "Remix",
+      "fontPackage": "remixicon",
+      "matchTextDirection": false
+    },
+    "chapters": [
+      {
+        "chapter": "Matter in Our Surroundings",
+        "iconName": {
+          "codePoint": 61670,
+          "fontFamily": "Remix",
+          "fontPackage": "remixicon",
+          "matchTextDirection": false
+        }
+      },
+      {
+        "chapter": "Atoms and Molecules",
+        "iconName": {
+          "codePoint": 61670,
+          "fontFamily": "Remix",
+          "fontPackage": "remixicon",
+          "matchTextDirection": false
+        }
+      }
+    ],
+    "initiallyExpanded": false
+  }
+]
