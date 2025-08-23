@@ -1,5 +1,5 @@
 {
-  "path": "root/HSC_Science/course_page_data.json",
+  "path": "Courses/HSC_Science/course_page_data.json",
   "courseName": "HSC Science",
   "subjects": [
     {
@@ -57,6 +57,51 @@
           "chapter": "3D Molecular Visualization",
           "iconName": {
             "codePoint": 61670,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
+        },
+        {
+          "chapter": "Atomic Structure",
+          "iconName": {
+            "codePoint": 61671,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
+        },
+        {
+          "chapter": "Chemical Bonding",
+          "iconName": {
+            "codePoint": 61672,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
+        },
+        {
+          "chapter": "Periodic Table",
+          "iconName": {
+            "codePoint": 61673,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
+        },
+        {
+          "chapter": "Acids and Bases",
+          "iconName": {
+            "codePoint": 61674,
+            "fontFamily": "Remix",
+            "fontPackage": "remixicon",
+            "matchTextDirection": false
+          }
+        },
+        {
+          "chapter": "Organic Chemistry Basics",
+          "iconName": {
+            "codePoint": 61675,
             "fontFamily": "Remix",
             "fontPackage": "remixicon",
             "matchTextDirection": false
