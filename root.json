@@ -1,44 +1,44 @@
 {
     "levels": [
         {
-            "level": "HSC",
+            "level": "hsc",
             "paths": [
-                "Science",
-                "Commerce",
-                "Arts"
+                "science",
+                "commerce",
+                "arts"
             ]
         },
         {
-            "level": "SSC",
+            "level": "ssc",
             "paths": [
-                "Science",
-                "Commerce",
-                "Arts"
+                "science",
+                "commerce",
+                "arts"
             ]
         },
         {
-            "level": "Class_8",
+            "level": "class_8",
             "paths": [
-                "General"
+                "general"
             ]
         },
         {
-            "level": "Class_7",
+            "level": "class_7",
             "paths": [
-                "General"
+                "general"
             ]
         },
         {
-            "level": "Class_6",
+            "level": "class_6",
             "paths": [
-                "General"
+                "general"
             ]
         },
         {
-            "level": "Job_Exams",
+            "level": "job_exams",
             "paths": [
-                "BCS",
-                "SSC"
+                "bcs",
+                "ssc"
             ]
         }
     ]
