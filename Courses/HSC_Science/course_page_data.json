@@ -54,7 +54,7 @@
       },
       "chapters": [
         {
-          "chapter": "Molecular Visualization",
+          "chapter": "MolecularVisualization",
           "iconName": {
             "codePoint": 61670,
             "fontFamily": "Remix",
