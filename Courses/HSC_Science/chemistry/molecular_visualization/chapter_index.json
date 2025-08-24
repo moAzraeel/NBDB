@@ -5,7 +5,7 @@
     "chapter": "molecular_visualization",
     "modules": [
         {
-            "name": "chemistry_3d",
+            "name": "chemistry_3D",
             "description": "3D molecular_visualization and interactive chemistry models",
             "asset": "simple_test.json"
         }
