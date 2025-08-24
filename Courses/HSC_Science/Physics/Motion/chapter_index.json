@@ -1,7 +1,7 @@
 {
-    "path": "Courses/HSC_Science/Physics/Motion/chapter_index.json",
-    "id": "HSC_Science",
-    "subject": "Physics",
-    "chapter": "Motion",
+    "path": "courses/hsc_science/physics/motion/chapter_index.json",
+    "id": "hsc_science",
+    "subject": "physics",
+    "chapter": "motion",
     "modules": []
 }

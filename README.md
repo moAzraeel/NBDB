@@ -12,7 +12,7 @@ https://nbdb.netlify.app/{$file_structure}/type.json
 NBDB/
 ├── README.md
 ├── root.json (Select Level & Paths from this Json index)
-└── Courses/ (Combines Level & Paths with _)
+└── courses/ (Combines Level & Paths with _)
     ├── course_page_data.json (Select Subjects and Chapters From this Json)
     ├── HSC_Science/
     ├── SSC_Arts/

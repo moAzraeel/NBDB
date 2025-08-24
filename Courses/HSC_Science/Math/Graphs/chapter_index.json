@@ -1,11 +1,11 @@
 {
-    "path": "Courses/HSC_Science/Math/Graphs/chapter_index.json",
-    "id": "HSC_Science",
-    "subject": "Math",
-    "chapter": "Graphs",
+    "path": "courses/hsc_science/math/graphs/chapter_index.json",
+    "id": "hsc_science",
+    "subject": "math",
+    "chapter": "graphs",
     "modules": [
         {
-            "name": "Graph",
+            "name": "graph",
             "description": "Graph theory and mathematical visualization",
             "asset": "math.riv"
         }

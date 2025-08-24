@@ -1,9 +1,9 @@
 {
-  "path": "Courses/HSC_Science/course_page_data.json",
+  "path": "courses/hsc_science/course_page_data.json",
   "courseName": "HSC Science",
   "subjects": [
     {
-      "subject": "Physics",
+      "subject": "physics",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -12,7 +12,7 @@
       },
       "chapters": [
         {
-          "chapter": "Vectors",
+          "chapter": "vectors",
           "iconName": {
             "codePoint": 61797,
             "fontFamily": "Remix",
@@ -24,7 +24,7 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "Math",
+      "subject": "math",
       "iconName": {
         "codePoint": 60318,
         "fontFamily": "Remix",
@@ -33,7 +33,7 @@
       },
       "chapters": [
         {
-          "chapter": "Graphs",
+          "chapter": "graphs",
           "iconName": {
             "codePoint": 61425,
             "fontFamily": "Remix",
@@ -45,7 +45,7 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "Chemistry",
+      "subject": "chemistry",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -54,7 +54,7 @@
       },
       "chapters": [
         {
-          "chapter": "MolecularVisualization",
+          "chapter": "molecular_visualization",
           "iconName": {
             "codePoint": 61670,
             "fontFamily": "Remix",
@@ -63,7 +63,7 @@
           }
         },
         {
-          "chapter": "Atomic Structure",
+          "chapter": "atomic_structure",
           "iconName": {
             "codePoint": 61671,
             "fontFamily": "Remix",
@@ -72,7 +72,7 @@
           }
         },
         {
-          "chapter": "Chemical Bonding",
+          "chapter": "chemical_bonding",
           "iconName": {
             "codePoint": 61672,
             "fontFamily": "Remix",
@@ -81,7 +81,7 @@
           }
         },
         {
-          "chapter": "Periodic Table",
+          "chapter": "periodic_table",
           "iconName": {
             "codePoint": 61673,
             "fontFamily": "Remix",
@@ -90,7 +90,7 @@
           }
         },
         {
-          "chapter": "Acids and Bases",
+          "chapter": "acids_and_bases",
           "iconName": {
             "codePoint": 61674,
             "fontFamily": "Remix",
@@ -99,7 +99,7 @@
           }
         },
         {
-          "chapter": "Organic Chemistry",
+          "chapter": "organic_chemistry",
           "iconName": {
             "codePoint": 61675,
             "fontFamily": "Remix",

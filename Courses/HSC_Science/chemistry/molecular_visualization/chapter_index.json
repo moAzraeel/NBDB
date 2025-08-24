@@ -1,0 +1,13 @@
+{
+    "path": "courses/hsc_science/chemistry/molecular_visualization/chapter_index.json",
+    "id": "hsc_science",
+    "subject": "chemistry",
+    "chapter": "molecular_visualization",
+    "modules": [
+        {
+            "name": "chemistry_3d",
+            "description": "3D molecular_visualization and interactive chemistry models",
+            "asset": "simple_test.json"
+        }
+    ]
+}

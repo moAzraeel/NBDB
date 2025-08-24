@@ -1,9 +1,9 @@
 {
-  "path": "Courses/SSC_Science/course_page_data.json",
+  "path": "courses/ssc_science/course_page_data.json",
   "courseName": "SSC Science",
   "subjects": [
     {
-      "subject": "Physics",
+      "subject": "physics",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -12,7 +12,7 @@
       },
       "chapters": [
         {
-          "chapter": "Physical Quantities and Their Measurements",
+          "chapter": "physical_quantities_and_their_measurements",
           "iconName": {
             "codePoint": 61797,
             "fontFamily": "Remix",
@@ -21,7 +21,7 @@
           }
         },
         {
-          "chapter": "Motion",
+          "chapter": "motion",
           "iconName": {
             "codePoint": 61797,
             "fontFamily": "Remix",
@@ -33,7 +33,7 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "Math",
+      "subject": "math",
       "iconName": {
         "codePoint": 60318,
         "fontFamily": "Remix",
@@ -42,7 +42,7 @@
       },
       "chapters": [
         {
-          "chapter": "Number Systems",
+          "chapter": "number_systems",
           "iconName": {
             "codePoint": 61425,
             "fontFamily": "Remix",
@@ -54,7 +54,7 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "Chemistry",
+      "subject": "chemistry",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -63,7 +63,7 @@
       },
       "chapters": [
         {
-          "chapter": "Matter in Our Surroundings",
+          "chapter": "matter_in_our_surroundings",
           "iconName": {
             "codePoint": 61670,
             "fontFamily": "Remix",
