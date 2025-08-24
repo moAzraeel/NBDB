@@ -33,7 +33,7 @@
       },
       "chapters": [
         {
-          "chapter": "Graphs (Chapter 8)",
+          "chapter": "Graphs",
           "iconName": {
             "codePoint": 61425,
             "fontFamily": "Remix",
@@ -54,7 +54,7 @@
       },
       "chapters": [
         {
-          "chapter": "3D Molecular Visualization",
+          "chapter": "Molecular Visualization",
           "iconName": {
             "codePoint": 61670,
             "fontFamily": "Remix",
@@ -99,7 +99,7 @@
           }
         },
         {
-          "chapter": "Organic Chemistry Basics",
+          "chapter": "Organic Chemistry",
           "iconName": {
             "codePoint": 61675,
             "fontFamily": "Remix",
