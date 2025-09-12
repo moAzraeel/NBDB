@@ -13,7 +13,7 @@
         },
         {
             "id": "8e699854-5dcc-45fd-9d2f-91e01641db6f",
-            "rivePath": "assets/modules/VectorCalculas/field.riv",
+            "rivePath": "field.riv",
             "artboard": "plate 2",
             "stateMachineName": null,
             "height": null,
@@ -29,12 +29,12 @@
             "title": "Gradient (গ্র্যাডিয়েন্ট) — দ্রুত বাড়ার দিক",
             "description": "গ্র্যাডিয়েন্ট হলো সেই ভেক্টর যা কোনো স্কেলার ফাংশনের সবচেয়ে দ্রুত বাড়ার দিক এবং হার নির্দেশ করে।\nউদাহরণ:\nতুমি যদি পাহাড়ে হাঁটো, গ্র্যাডিয়েন্ট দেখায় সবচেয়ে খাড়া এবং দ্রুত উপরে ওঠার পথ।",
             "lottiePath": null,
-            "imagePath": "assets/modules/VectorCalculas/gradient.gif",
+            "imagePath": "gradient.gif",
             "runtimeType": "initial"
         },
         {
             "id": "88409d85-d727-44c0-8e9c-0c4088b0580c",
-            "imagePath": "assets/modules/VectorCalculas/Screenshot 2025-08-08 at 2.39.51 AM.png",
+            "imagePath": "Screenshot 2025-08-08 at 2.39.51 AM.png",
             "height": null,
             "caption": null,
             "runtimeType": "image"
@@ -49,7 +49,7 @@
         },
         {
             "id": "a131dce2-126f-4e47-8419-bac72fc6cee3",
-            "imagePath": "assets/modules/VectorCalculas/Screenshot 2025-08-08 at 2.41.10 AM.png",
+            "imagePath": "Screenshot 2025-08-08 at 2.41.10 AM.png",
             "height": null,
             "caption": null,
             "runtimeType": "image"
@@ -59,12 +59,12 @@
             "title": "Curl (কার্ল) — ঘূর্ণায়মান গতি",
             "description": "কার্ল কোনো ভেক্টর ক্ষেত্রের ঘূর্ণায়মান গতির পরিমাণ ও অক্ষ নির্দেশ করে।\nউদাহরণ:\nঘূর্ণিঝড় (টর্নেডো) → উচ্চ কার্ল\nসরলভাবে বয়ে যাওয়া নদী → শূন্য বা কম কার্ল",
             "lottiePath": null,
-            "imagePath": "assets/modules/VectorCalculas/curl.gif",
+            "imagePath": "curl.gif",
             "runtimeType": "initial"
         },
         {
             "id": "f7182429-65c8-408e-9189-7cf3f38ba528",
-            "imagePath": "assets/modules/VectorCalculas/Screenshot 2025-08-08 at 2.42.29 AM.png",
+            "imagePath": "Screenshot 2025-08-08 at 2.42.29 AM.png",
             "height": null,
             "caption": null,
             "runtimeType": "image"

@@ -8,7 +8,7 @@
             "title": "নদী পার হওয়া - ভেক্টর অ্যাডভেঞ্চার!",
             "description": "নদীতে ভেক্টর কেন দরকার?\n📘 কল্পনা করো:\nতুমি একটি নৌকায় বসে আছো, এবং সোজা উত্তর দিকে নদী পার হতে চাও। কিন্তু নদীর স্রোত তোমাকে ডানে (পূর্ব দিকে) টানছে।",
             "lottiePath": null,
-            "imagePath": "assets/modules/VectorRiverBoat/main1.gif",
+            "imagePath": "main1.gif",
             "runtimeType": "initial"
         },
         {
@@ -36,7 +36,7 @@
         },
         {
             "id": "46f357d5-12db-46d1-9e61-505728155a55",
-            "rivePath": "assets/modules/VectorRiverBoat/boatriver.riv",
+            "rivePath": "boatriver.riv",
             "artboard": "direct",
             "stateMachineName": null,
             "height": null,
@@ -84,7 +84,7 @@
         },
         {
             "id": "a172833c-11e8-425c-a5ed-f904ad4cffc1",
-            "rivePath": "assets/modules/VectorRiverBoat/boatriver.riv",
+            "rivePath": "boatriver.riv",
             "artboard": "direct",
             "stateMachineName": null,
             "height": null,
@@ -127,7 +127,7 @@
         },
         {
             "id": "40c54a19-1651-4955-9622-9c86e8217870",
-            "rivePath": "assets/modules/VectorRiverBoat/boatriver.riv",
+            "rivePath": "boatriver.riv",
             "artboard": "time",
             "stateMachineName": null,
             "height": null,
@@ -175,7 +175,7 @@
         },
         {
             "id": "b5e92970-8119-4bac-801f-b130447bec09",
-            "rivePath": "assets/modules/VectorRiverBoat/boatriver.riv",
+            "rivePath": "boatriver.riv",
             "artboard": "time",
             "stateMachineName": null,
             "height": null,

@@ -7,7 +7,7 @@
             "id": "35288ff5-b39f-4fd2-875e-65d763b462c3",
             "title": "📈 গ্রাফ কী? আমরা এটা কেন ব্যবহার করি?",
             "description": "ধরো তুমি সাইকেল চালিয়ে যাচ্ছো আর গতি হিসাব করছো। তুমি যদি শুধু শব্দে বলো “আমি একসময় ধীরে চলছিলাম, তারপর দ্রুত”, সেটা বোঝা একটু কঠিন। কিন্তু যদি তুমি একটি গ্রাফ আঁকো, তখন সেটা চোখে দেখা যায়—তুমি কখন ধীরে, কখন দ্রুত ছিলে।",
-            "lottiePath": "assets/modules/Graph/Cycler.json",
+            "lottiePath": "Cycler.json",
             "imagePath": null,
             "runtimeType": "initial"
         },
@@ -50,7 +50,7 @@
         },
         {
             "id": "88975b7d-3ad3-40e8-8752-d929d30210ab",
-            "rivePath": "assets/modules/Graph/math.riv",
+            "rivePath": "math.riv",
             "artboard": "Android Compact - 3",
             "stateMachineName": null,
             "height": null,
@@ -90,7 +90,7 @@
         },
         {
             "id": "45be3407-b7e8-472a-88aa-4cac5f5cf01c",
-            "rivePath": "assets/modules/Graph/math.riv",
+            "rivePath": "math.riv",
             "artboard": "Android Compact - 2",
             "stateMachineName": null,
             "height": null,
@@ -130,7 +130,7 @@
         },
         {
             "id": "3271219d-9f62-4c4d-a9a5-f53a0377b61d",
-            "rivePath": "assets/modules/Graph/math.riv",
+            "rivePath": "math.riv",
             "artboard": "Android Compact - 1",
             "stateMachineName": null,
             "height": null,

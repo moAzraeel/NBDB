@@ -7,7 +7,7 @@
             "title": "Testing PDB Visualization",
             "description": "This is a simple test module to ensure PDB visualization works correctly.",
             "lottiePath": null,
-            "imagePath": "assets/images/chemIcon.png",
+            "imagePath": "chemIcon.png",
             "runtimeType": "initial"
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             "id": "water-molecule-test",
-            "pdbPath": "assets/model/pdb/water.pdb",
+            "pdbPath": "water.pdb",
             "height": 300,
             "explanation": "💧 Water (H₂O)\n\nThis is water - the most important molecule for life! The oxygen atom (red) is bonded to two hydrogen atoms (white) at an angle of about 104.5°.",
             "title": "Water Molecule",
@@ -30,7 +30,7 @@
         },
         {
             "id": "methane-molecule-test",
-            "pdbPath": "assets/model/pdb/methane.pdb",
+            "pdbPath": "methane.pdb",
             "height": 300,
             "explanation": "🔥 Methane (CH₄)\n\nMethane is the simplest hydrocarbon. The carbon atom (gray) is at the center with four hydrogen atoms (white) arranged in a tetrahedral shape.",
             "title": "Methane - Simple Hydrocarbon",

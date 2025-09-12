@@ -8,7 +8,7 @@
             "title": "Welcome to 3D Chemistry!",
             "description": "Explore molecular structures in three dimensions and understand how atoms bond together to form compounds. Interactive 3D models help visualize molecular geometry and chemical bonding.",
             "lottiePath": null,
-            "imagePath": "assets/images/chemIcon.png",
+            "imagePath": "chemIcon.png",
             "runtimeType": "initial"
         },
         {
@@ -26,7 +26,7 @@
         },
         {
             "id": "water-molecule",
-            "pdbPath": "assets/model/pdb/water.pdb",
+            "pdbPath": "water.pdb",
             "height": 300,
             "explanation": "💧 Water (H₂O)\n\nWater is essential for life! Notice the bent molecular geometry - the oxygen atom (red) is bonded to two hydrogen atoms (white) at an angle of about 104.5°.\n\nKey features:\n• Polar molecule (uneven charge distribution)\n• Bent shape due to lone electron pairs\n• Forms hydrogen bonds with other water molecules",
             "title": "Water Molecule",
@@ -34,7 +34,7 @@
         },
         {
             "id": "methane-molecule",
-            "pdbPath": "assets/model/pdb/methane.pdb",
+            "pdbPath": "methane.pdb",
             "height": 300,
             "explanation": "🔥 Methane (CH₄)\n\nMethane is the simplest hydrocarbon and main component of natural gas. The carbon atom (gray/black) is at the center with four hydrogen atoms (white) arranged in a tetrahedral geometry.\n\nKey features:\n• Tetrahedral shape (109.5° bond angles)\n• Non-polar molecule\n• Primary component of natural gas\n• Greenhouse gas",
             "title": "Methane - The Simplest Hydrocarbon",
@@ -42,7 +42,7 @@
         },
         {
             "id": "ammonia-molecule",
-            "pdbPath": "assets/model/pdb/ammonia.pdb",
+            "pdbPath": "ammonia.pdb",
             "height": 300,
             "explanation": "🧪 Ammonia (NH₃)\n\nAmmonia has a pyramidal shape with nitrogen (blue) at the apex and three hydrogen atoms (white) forming the base. The lone pair of electrons on nitrogen affects the molecular geometry.\n\nKey features:\n• Trigonal pyramidal shape\n• Polar molecule\n• Forms hydrogen bonds\n• Important industrial chemical",
             "title": "Ammonia - Pyramidal Geometry",
@@ -81,7 +81,7 @@
         },
         {
             "id": "ethane-molecule",
-            "pdbPath": "assets/model/pdb/ethane.pdb",
+            "pdbPath": "ethane.pdb",
             "height": 300,
             "explanation": "⛽ Ethane (C₂H₆)\n\nEthane consists of two carbon atoms connected by a single bond, with each carbon bonded to three hydrogen atoms. This is a simple example of an alkane.\n\nKey features:\n• Single C-C bond allows rotation\n• Tetrahedral geometry around each carbon\n• Found in natural gas\n• Used in petrochemical industry",
             "title": "Ethane - Two Carbon Chain",
@@ -89,7 +89,7 @@
         },
         {
             "id": "ethanol-molecule",
-            "pdbPath": "assets/model/pdb/ethanol.pdb",
+            "pdbPath": "ethanol.pdb",
             "height": 300,
             "explanation": "🍷 Ethanol (C₂H₅OH)\n\nEthanol contains a hydroxyl group (-OH) attached to a carbon chain. This functional group makes ethanol polar and able to dissolve in water.\n\nKey features:\n• Alcohol functional group (-OH)\n• Can form hydrogen bonds\n• Miscible with water\n• Found in alcoholic beverages\n• Used as fuel and solvent",
             "title": "Ethanol - An Alcohol",
@@ -97,7 +97,7 @@
         },
         {
             "id": "glucose-molecule",
-            "pdbPath": "assets/model/pdb/glucose.pdb",
+            "pdbPath": "glucose.pdb",
             "height": 350,
             "explanation": "🍯 Glucose (C₆H₁₂O₆)\n\nGlucose is a simple sugar and the primary source of energy for living cells. Notice the ring structure formed by carbon and oxygen atoms.\n\nKey features:\n• Ring structure (pyranose form)\n• Multiple hydroxyl groups (-OH)\n• Chair conformation minimizes strain\n• Essential for cellular respiration\n• Building block of starch and cellulose",
             "title": "Glucose - Life's Energy Source",
@@ -105,7 +105,7 @@
         },
         {
             "id": "benzene-molecule",
-            "pdbPath": "assets/model/pdb/c6h6.pdb",
+            "pdbPath": "c6h6.pdb",
             "height": 300,
             "explanation": "🌟 Benzene (C₆H₆)\n\nBenzene is the simplest aromatic compound with a ring of six carbon atoms. The electrons are delocalized around the ring, giving it special stability.\n\nKey features:\n• Aromatic ring structure\n• Delocalized electrons\n• Planar geometry\n• All bond angles are 120°\n• Foundation of aromatic chemistry",
             "title": "Benzene - The Aromatic Ring",
@@ -148,7 +148,7 @@
         },
         {
             "id": "atp-molecule",
-            "pdbPath": "assets/model/pdb/ATP.pdb",
+            "pdbPath": "ATP.pdb",
             "height": 400,
             "explanation": "⚡ ATP (Adenosine Triphosphate)\n\nATP is the 'energy currency' of cells. It stores and transfers energy through its phosphate bonds. When ATP releases a phosphate group, energy is released for cellular processes.\n\nKey features:\n• Three phosphate groups store energy\n• Adenine base and ribose sugar\n• High-energy phosphate bonds\n• Universal energy carrier in cells\n• Essential for all life processes",
             "title": "ATP - Cellular Energy Currency",
@@ -156,7 +156,7 @@
         },
         {
             "id": "caffeine-molecule",
-            "pdbPath": "assets/model/pdb/c6h4ch3no2.pdb",
+            "pdbPath": "c6h4ch3no2.pdb",
             "height": 300,
             "explanation": "☕ Organic Stimulant\n\nThis molecule represents a class of organic compounds containing nitrogen. Many such compounds have biological activity and are found in plants as natural stimulants.\n\nKey features:\n• Contains aromatic ring systems\n• Nitrogen atoms affect properties\n• Demonstrates complex organic structure\n• Shows importance of molecular shape",
             "title": "Complex Organic Molecule",
