@@ -1,6 +1,6 @@
 {
-    "path": "courses/HSC_Science/Physics/Vectors/VectorDotCross/module.json",
-    "id": "VectorDotCross",
+    "path": "courses/HSC_Science/Physics/Vectors/VectorDotAndCross/module.json",
+    "id": "VectorDotAndCross",
     "title": "Vector Dot and Cross Product",
     "parts": [
         {

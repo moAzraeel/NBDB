@@ -1,44 +1,83 @@
 {
     "levels": [
         {
-            "level": "hsc",
+            "level": "HSC",
+            "id": "hsc",
             "paths": [
-                "science",
-                "commerce",
-                "arts"
+                {
+                    "name": "Science",
+                    "id": "sci"
+                },
+                {
+                    "name": "Commerce",
+                    "id": "com"
+                },
+                {
+                    "name": "Arts",
+                    "id": "art"
+                }
             ]
         },
         {
-            "level": "ssc",
+            "level": "SSC",
+            "id": "ssc",
             "paths": [
-                "science",
-                "commerce",
-                "arts"
+                {
+                    "name": "Science",
+                    "id": "sci"
+                },
+                {
+                    "name": "Commerce",
+                    "id": "com"
+                },
+                {
+                    "name": "Arts",
+                    "id": "art"
+                }
             ]
         },
         {
-            "level": "class_8",
+            "level": "Class 8",
+            "id": "c8",
             "paths": [
-                "general"
+                {
+                    "name": "General",
+                    "id": "gen"
+                }
             ]
         },
         {
-            "level": "class_7",
+            "level": "Class 7",
+            "id": "c7",
             "paths": [
-                "general"
+                {
+                    "name": "General",
+                    "id": "gen"
+                }
             ]
         },
         {
-            "level": "class_6",
+            "level": "Class 6",
+            "id": "c6",
             "paths": [
-                "general"
+                {
+                    "name": "General",
+                    "id": "gen"
+                }
             ]
         },
         {
-            "level": "job_exams",
+            "level": "Job Exams",
+            "id": "job",
             "paths": [
-                "bcs",
-                "ssc"
+                {
+                    "name": "BCS",
+                    "id": "bcs"
+                },
+                {
+                    "name": "SSC",
+                    "id": "ssc_j"
+                }
             ]
         }
     ]
