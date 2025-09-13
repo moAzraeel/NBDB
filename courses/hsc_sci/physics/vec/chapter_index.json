@@ -5,35 +5,35 @@
     "chapter": "vec",
     "modules": [
         {
-            "name": "vector_dot_and_cross",
+            "name": "Vector Dot and Cross",
             "id": "dot_cross",
             "description": "Demonstrates dot and cross product with animations.",
             "asset": "3D Shape Animation.json",
             "isPremium": false
         },
         {
-            "name": "vector_river_and_boat",
+            "name": "Vector River and Boat",
             "id": "river_boat",
             "description": "River boat problems and related vector concepts.",
             "asset": "boatriver.riv",
             "isPremium": false
         },
         {
-            "name": "vector_calculus",
+            "name": "Vector Calculus",
             "id": "calculus",
             "description": "Covers vector calculus concepts and visualizations.",
             "asset": "curl.gif",
             "isPremium": false
         },
         {
-            "name": "vector_dot_and_cross_quiz",
+            "name": "Vector Dot and Cross Quiz",
             "id": "dot_cross_quiz",
             "description": "Quiz or quick reference for dot and cross product.",
             "asset": "useThisCross.gif",
             "isPremium": true
         },
         {
-            "name": "vector_river_and_boat_quiz",
+            "name": "Vector River and Boat Quiz",
             "id": "river_boat_quiz",
             "description": "Quiz or quick reference for river boat problems.",
             "asset": "module.json",

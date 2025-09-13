@@ -5,7 +5,7 @@
     "chapter": "grph",
     "modules": [
         {
-            "name": "graph",
+            "name": "Graph",
             "id": "graph",
             "description": "Graph theory and mathematical visualization",
             "asset": "math.riv"
