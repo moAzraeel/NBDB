@@ -1,7 +1,8 @@
 {
     "path": "courses/hsc_sci/math/grph/graph/module.json",
     "id": "graph",
-    "title": "Graph Theory and Mathematical Visualization",
+    "titleen": "Graph Theory and Mathematical Visualization",
+    "titlebn": "গ্রাফ তত্ত্ব ও গাণিতিক দৃশ্যায়ন",
     "parts": [
         {
             "id": "35288ff5-b39f-4fd2-875e-65d763b462c3",

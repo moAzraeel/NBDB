@@ -1,7 +1,8 @@
 {
     "path": "courses/hsc_sci/physics/vec/calculus/module.json",
     "id": "calculus",
-    "title": "Vector Calculus Concepts and Visualizations",
+    "titleen": "Vector Calculus Concepts and Visualizations",
+    "titlebn": "ভেক্টর ক্যালকুলাস ধারণা ও দৃশ্যায়ন",
     "parts": [
         {
             "id": "b50314ef-4bfd-4555-9133-adf9f80283d3",

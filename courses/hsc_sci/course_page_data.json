@@ -1,9 +1,11 @@
 {
   "path": "courses/hsc_science/course_page_data.json",
-  "courseName": "HSC Science",
+  "courseNameen": "HSC Science",
+  "courseNamebn": "উচ্চ মাধ্যমিক বিজ্ঞান",
   "subjects": [
     {
-      "subject": "physics",
+      "subjecten": "physics",
+      "subjectbn": "পদার্থবিজ্ঞান",
       "id": "phy",
       "iconName": {
         "codePoint": 60115,
@@ -13,7 +15,8 @@
       },
       "chapters": [
         {
-          "chapter": "vectors",
+          "chapteren": "vectors",
+          "chapterbn": "ভেক্টর",
           "id": "vec",
           "iconName": {
             "codePoint": 61797,
@@ -26,7 +29,8 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "math",
+      "subjecten": "math",
+      "subjectbn": "গণিত",
       "id": "math",
       "iconName": {
         "codePoint": 60318,
@@ -36,7 +40,8 @@
       },
       "chapters": [
         {
-          "chapter": "graphs",
+          "chapteren": "graphs",
+          "chapterbn": "গ্রাফ",
           "id": "grph",
           "iconName": {
             "codePoint": 61425,
@@ -49,7 +54,8 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "chemistry",
+      "subjecten": "chemistry",
+      "subjectbn": "রসায়ন",
       "id": "chem",
       "iconName": {
         "codePoint": 60115,
@@ -59,7 +65,8 @@
       },
       "chapters": [
         {
-          "chapter": "molecular_visualization",
+          "chapteren": "molecular_visualization",
+          "chapterbn": "আণবিক দৃশ্যায়ন",
           "id": "mol_vis",
           "iconName": {
             "codePoint": 61670,

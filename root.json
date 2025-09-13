@@ -1,81 +1,98 @@
 {
     "levels": [
         {
-            "level": "HSC",
+            "levelen": "HSC",
+            "levelbn": "উচ্চ মাধ্যমিক",
             "id": "hsc",
             "paths": [
                 {
-                    "name": "Science",
+                    "nameen": "Science",
+                    "namebn": "বিজ্ঞান",
                     "id": "sci"
                 },
                 {
-                    "name": "Commerce",
+                    "nameen": "Commerce",
+                    "namebn": "ব্যবসায়",
                     "id": "com"
                 },
                 {
-                    "name": "Arts",
+                    "nameen": "Arts",
+                    "namebn": "মানবিক",
                     "id": "art"
                 }
             ]
         },
         {
-            "level": "SSC",
+            "levelen": "SSC",
+            "levelbn": "মাধ্যমিক",
             "id": "ssc",
             "paths": [
                 {
-                    "name": "Science",
+                    "nameen": "Science",
+                    "namebn": "বিজ্ঞান",
                     "id": "sci"
                 },
                 {
-                    "name": "Commerce",
+                    "nameen": "Commerce",
+                    "namebn": "ব্যবসায়",
                     "id": "com"
                 },
                 {
-                    "name": "Arts",
+                    "nameen": "Arts",
+                    "namebn": "মানবিক",
                     "id": "art"
                 }
             ]
         },
         {
-            "level": "Class 8",
+            "levelen": "Class 8",
+            "levelbn": "৮ম শ্রেণি",
             "id": "c8",
             "paths": [
                 {
-                    "name": "General",
+                    "nameen": "General",
+                    "namebn": "সাধারণ",
                     "id": "gen"
                 }
             ]
         },
         {
-            "level": "Class 7",
+            "levelen": "Class 7",
+            "levelbn": "৭ম শ্রেণি",
             "id": "c7",
             "paths": [
                 {
-                    "name": "General",
+                    "nameen": "General",
+                    "namebn": "সাধারণ",
                     "id": "gen"
                 }
             ]
         },
         {
-            "level": "Class 6",
+            "levelen": "Class 6",
+            "levelbn": "৬ষ্ঠ শ্রেণি",
             "id": "c6",
             "paths": [
                 {
-                    "name": "General",
+                    "nameen": "General",
+                    "namebn": "সাধারণ",
                     "id": "gen"
                 }
             ]
         },
         {
-            "level": "Job Exams",
+            "levelen": "Job Exams",
+            "levelbn": "চাকরির পরীক্ষা",
             "id": "job",
             "paths": [
                 {
-                    "name": "BCS",
+                    "nameen": "BCS",
+                    "namebn": "বিসিএস",
                     "id": "bcs"
                 },
                 {
-                    "name": "SSC",
+                    "nameen": "SSC",
+                    "namebn": "এসএসসি",
                     "id": "ssc_j"
                 }
             ]

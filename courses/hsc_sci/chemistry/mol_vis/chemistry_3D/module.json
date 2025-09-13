@@ -1,7 +1,8 @@
 {
     "path": "courses/hsc_sci/chemistry/mol_vis/chemistry_3D/module.json",
     "id": "chemistry_3D",
-    "title": "3D MolecularVisualization",
+    "titleen": "3D MolecularVisualization",
+    "titlebn": "ত্রিমাত্রিক আণবিক দৃশ্যায়ন",
     "parts": [
         {
             "id": "intro-molecules",

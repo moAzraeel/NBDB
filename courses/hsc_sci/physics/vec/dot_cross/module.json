@@ -1,7 +1,8 @@
 {
     "path": "courses/hsc_sci/physics/vec/dot_cross/module.json",
     "id": "dot_cross",
-    "title": "Vector Dot and Cross Product",
+    "titleen": "Vector Dot and Cross Product",
+    "titlebn": "ভেক্টর ডট ও ক্রস প্রোডাক্ট",
     "parts": [
         {
             "id": "fdc15d83-0003-4c2c-8246-e003ef278ac8",

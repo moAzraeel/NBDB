@@ -1,7 +1,8 @@
 {
     "path": "courses/hsc_sci/physics/vec/river_boat/module.json",
     "id": "river_boat",
-    "title": "River Boat Problems and Vector Concepts",
+    "titleen": "River Boat Problems and Vector Concepts",
+    "titlebn": "নদী নৌকার সমস্যা ও ভেক্টর ধারণা",
     "parts": [
         {
             "id": "57c60817-3b3d-42db-a7a2-db077ed52433",

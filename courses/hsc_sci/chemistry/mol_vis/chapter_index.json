@@ -5,9 +5,11 @@
     "chapter": "mol_vis",
     "modules": [
         {
-            "name": "Chemistry 3D",
+            "nameen": "Chemistry 3D",
+            "namebn": "ত্রিমাত্রিক রসায়ন",
             "id": "chemistry_3D",
-            "description": "3D molecular visualization and interactive chemistry models",
+            "descriptionen": "3D molecular visualization and interactive chemistry models",
+            "descriptionbn": "ত্রিমাত্রিক আণবিক দৃশ্যায়ন এবং ইন্টারঅ্যাক্টিভ রসায়ন মডেল",
             "asset": "simple_test.json"
         }
     ]

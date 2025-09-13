@@ -1,9 +1,11 @@
 {
   "path": "courses/ssc_science/course_page_data.json",
-  "courseName": "SSC Science",
+  "courseNameen": "SSC Science",
+  "courseNamebn": "মাধ্যমিক বিজ্ঞান",
   "subjects": [
     {
-      "subject": "physics",
+      "subjecten": "Physics",
+      "subjectbn": "পদার্থবিজ্ঞান",
       "id": "phy",
       "iconName": {
         "codePoint": 60115,
@@ -13,7 +15,8 @@
       },
       "chapters": [
         {
-          "chapter": "physical_quantities_and_their_measurements",
+          "chapteren": "Physical Quantities and Their Measurements",
+          "chapterbn": "ভৌত রাশি ও তাদের পরিমাপ",
           "id": "phy_qty",
           "iconName": {
             "codePoint": 61797,
@@ -23,7 +26,8 @@
           }
         },
         {
-          "chapter": "motion",
+          "chapteren": "Motion",
+          "chapterbn": "গতি",
           "id": "mot",
           "iconName": {
             "codePoint": 61797,
@@ -36,7 +40,8 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "math",
+      "subjecten": "Math",
+      "subjectbn": "গণিত",
       "id": "math",
       "iconName": {
         "codePoint": 60318,
@@ -46,7 +51,8 @@
       },
       "chapters": [
         {
-          "chapter": "number_systems",
+          "chapteren": "Number Systems",
+          "chapterbn": "সংখ্যা পদ্ধতি",
           "id": "num_sys",
           "iconName": {
             "codePoint": 61425,
@@ -59,7 +65,8 @@
       "initiallyExpanded": false
     },
     {
-      "subject": "chemistry",
+      "subjecten": "Chemistry",
+      "subjectbn": "রসায়ন",
       "id": "chem",
       "iconName": {
         "codePoint": 60115,
@@ -69,7 +76,8 @@
       },
       "chapters": [
         {
-          "chapter": "matter_in_our_surroundings",
+          "chapteren": "Matter in Our Surroundings",
+          "chapterbn": "আমাদের চারপাশের পদার্থ",
           "id": "mat_sur",
           "iconName": {
             "codePoint": 61670,

@@ -5,37 +5,47 @@
     "chapter": "vec",
     "modules": [
         {
-            "name": "Vector Dot and Cross",
+            "nameen": "Vector Dot and Cross",
+            "namebn": "ভেক্টর ডট ও ক্রস প্রোডাক্ট",
             "id": "dot_cross",
-            "description": "Demonstrates dot and cross product with animations.",
+            "descriptionen": "Demonstrates dot and cross product with animations.",
+            "descriptionbn": "অ্যানিমেশনের সাথে ডট এবং ক্রস প্রোডাক্ট প্রদর্শন করে।",
             "asset": "3D Shape Animation.json",
             "isPremium": false
         },
         {
-            "name": "Vector River and Boat",
+            "nameen": "Vector River and Boat",
+            "namebn": "ভেক্টর নদী ও নৌকা",
             "id": "river_boat",
-            "description": "River boat problems and related vector concepts.",
+            "descriptionen": "River boat problems and related vector concepts.",
+            "descriptionbn": "নদী নৌকার সমস্যা এবং সংশ্লিষ্ট ভেক্টর ধারণা।",
             "asset": "boatriver.riv",
             "isPremium": false
         },
         {
-            "name": "Vector Calculus",
+            "nameen": "Vector Calculus",
+            "namebn": "ভেক্টর ক্যালকুলাস",
             "id": "calculus",
-            "description": "Covers vector calculus concepts and visualizations.",
+            "descriptionen": "Covers vector calculus concepts and visualizations.",
+            "descriptionbn": "ভেক্টর ক্যালকুলাস ধারণা এবং দৃশ্যায়ন অন্তর্ভুক্ত করে।",
             "asset": "curl.gif",
             "isPremium": false
         },
         {
-            "name": "Vector Dot and Cross Quiz",
+            "nameen": "Vector Dot and Cross Quiz",
+            "namebn": "ভেক্টর ডট ও ক্রস কুইজ",
             "id": "dot_cross_quiz",
-            "description": "Quiz or quick reference for dot and cross product.",
+            "descriptionen": "Quiz or quick reference for dot and cross product.",
+            "descriptionbn": "ডট এবং ক্রস প্রোডাক্টের জন্য কুইজ বা দ্রুত রেফারেন্স।",
             "asset": "useThisCross.gif",
             "isPremium": true
         },
         {
-            "name": "Vector River and Boat Quiz",
+            "nameen": "Vector River and Boat Quiz",
+            "namebn": "ভেক্টর নদী ও নৌকা কুইজ",
             "id": "river_boat_quiz",
-            "description": "Quiz or quick reference for river boat problems.",
+            "descriptionen": "Quiz or quick reference for river boat problems.",
+            "descriptionbn": "নদী নৌকার সমস্যার জন্য কুইজ বা দ্রুত রেফারেন্স।",
             "asset": "module.json",
             "isPremium": true
         }

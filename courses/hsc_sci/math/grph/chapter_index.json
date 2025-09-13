@@ -5,9 +5,11 @@
     "chapter": "grph",
     "modules": [
         {
-            "name": "Graph",
+            "nameen": "Graph",
+            "namebn": "গ্রাফ",
             "id": "graph",
-            "description": "Graph theory and mathematical visualization",
+            "descriptionen": "Graph theory and mathematical visualization",
+            "descriptionbn": "গ্রাফ তত্ত্ব এবং গাণিতিক দৃশ্যায়ন",
             "asset": "math.riv"
         }
     ]
