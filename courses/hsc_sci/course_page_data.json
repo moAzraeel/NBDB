@@ -67,56 +67,6 @@
             "fontPackage": "remixicon",
             "matchTextDirection": false
           }
-        },
-        {
-          "chapter": "atomic_structure",
-          "id": "atm_str",
-          "iconName": {
-            "codePoint": 61671,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
-        },
-        {
-          "chapter": "chemical_bonding",
-          "id": "chem_bnd",
-          "iconName": {
-            "codePoint": 61672,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
-        },
-        {
-          "chapter": "periodic_table",
-          "id": "prd_tbl",
-          "iconName": {
-            "codePoint": 61673,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
-        },
-        {
-          "chapter": "acids_and_bases",
-          "id": "acd_bas",
-          "iconName": {
-            "codePoint": 61674,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
-        },
-        {
-          "chapter": "organic_chemistry",
-          "id": "org_chem",
-          "iconName": {
-            "codePoint": 61675,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
         }
       ],
       "initiallyExpanded": false
