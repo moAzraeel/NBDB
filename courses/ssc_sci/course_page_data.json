@@ -4,6 +4,7 @@
   "subjects": [
     {
       "subject": "physics",
+      "id": "phy",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -13,6 +14,7 @@
       "chapters": [
         {
           "chapter": "physical_quantities_and_their_measurements",
+          "id": "phy_qty",
           "iconName": {
             "codePoint": 61797,
             "fontFamily": "Remix",
@@ -22,6 +24,7 @@
         },
         {
           "chapter": "motion",
+          "id": "mot",
           "iconName": {
             "codePoint": 61797,
             "fontFamily": "Remix",
@@ -34,6 +37,7 @@
     },
     {
       "subject": "math",
+      "id": "math",
       "iconName": {
         "codePoint": 60318,
         "fontFamily": "Remix",
@@ -43,6 +47,7 @@
       "chapters": [
         {
           "chapter": "number_systems",
+          "id": "num_sys",
           "iconName": {
             "codePoint": 61425,
             "fontFamily": "Remix",
@@ -55,6 +60,7 @@
     },
     {
       "subject": "chemistry",
+      "id": "chem",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -64,6 +70,7 @@
       "chapters": [
         {
           "chapter": "matter_in_our_surroundings",
+          "id": "mat_sur",
           "iconName": {
             "codePoint": 61670,
             "fontFamily": "Remix",

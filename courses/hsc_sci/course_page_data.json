@@ -4,6 +4,7 @@
   "subjects": [
     {
       "subject": "physics",
+      "id": "phy",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -13,6 +14,7 @@
       "chapters": [
         {
           "chapter": "vectors",
+          "id": "vec",
           "iconName": {
             "codePoint": 61797,
             "fontFamily": "Remix",
@@ -25,6 +27,7 @@
     },
     {
       "subject": "math",
+      "id": "math",
       "iconName": {
         "codePoint": 60318,
         "fontFamily": "Remix",
@@ -34,6 +37,7 @@
       "chapters": [
         {
           "chapter": "graphs",
+          "id": "grph",
           "iconName": {
             "codePoint": 61425,
             "fontFamily": "Remix",
@@ -46,6 +50,7 @@
     },
     {
       "subject": "chemistry",
+      "id": "chem",
       "iconName": {
         "codePoint": 60115,
         "fontFamily": "Remix",
@@ -55,6 +60,7 @@
       "chapters": [
         {
           "chapter": "molecular_visualization",
+          "id": "mol_vis",
           "iconName": {
             "codePoint": 61670,
             "fontFamily": "Remix",
@@ -64,6 +70,7 @@
         },
         {
           "chapter": "atomic_structure",
+          "id": "atm_str",
           "iconName": {
             "codePoint": 61671,
             "fontFamily": "Remix",
@@ -73,6 +80,7 @@
         },
         {
           "chapter": "chemical_bonding",
+          "id": "chem_bnd",
           "iconName": {
             "codePoint": 61672,
             "fontFamily": "Remix",
@@ -82,6 +90,7 @@
         },
         {
           "chapter": "periodic_table",
+          "id": "prd_tbl",
           "iconName": {
             "codePoint": 61673,
             "fontFamily": "Remix",
@@ -91,6 +100,7 @@
         },
         {
           "chapter": "acids_and_bases",
+          "id": "acd_bas",
           "iconName": {
             "codePoint": 61674,
             "fontFamily": "Remix",
@@ -100,6 +110,7 @@
         },
         {
           "chapter": "organic_chemistry",
+          "id": "org_chem",
           "iconName": {
             "codePoint": 61675,
             "fontFamily": "Remix",
