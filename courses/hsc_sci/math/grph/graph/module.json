@@ -1,6 +1,6 @@
 {
-    "path": "courses/HSC_Science/Math/Graphs/Graph/module.json",
-    "id": "Graph",
+    "path": "courses/hsc_sci/math/grph/graph/module.json",
+    "id": "graph",
     "title": "Graph Theory and Mathematical Visualization",
     "parts": [
         {

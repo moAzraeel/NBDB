@@ -1,6 +1,6 @@
 {
-    "path": "courses/HSC_Science/Physics/Vectors/VectorRiverBoat/module.json",
-    "id": "VectorRiverBoat",
+    "path": "courses/hsc_sci/physics/vec/river_boat/module.json",
+    "id": "river_boat",
     "title": "River Boat Problems and Vector Concepts",
     "parts": [
         {

@@ -1,6 +1,6 @@
 {
-    "path": "courses/HSC_Science/Physics/Vectors/VectorCalculas/module.json",
-    "id": "VectorCalculas",
+    "path": "courses/hsc_sci/physics/vec/calculus/module.json",
+    "id": "calculus",
     "title": "Vector Calculus Concepts and Visualizations",
     "parts": [
         {

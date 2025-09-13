@@ -1,6 +1,6 @@
 {
-    "path": "courses/HSC_Science/Chemistry/3D MolecularVisualization/Chemistry3D/module.json",
-    "id": "chemistry-3d-molecules",
+    "path": "courses/hsc_sci/chemistry/mol_vis/chemistry_3D/module.json",
+    "id": "chemistry_3D",
     "title": "3D MolecularVisualization",
     "parts": [
         {

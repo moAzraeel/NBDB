@@ -1,6 +1,6 @@
 {
-    "path": "courses/HSC_Science/Physics/Vectors/VectorRiverBoatQ/module.json",
-    "id": "vector-river-boat-mcq",
+    "path": "courses/hsc_sci/physics/vec/river_boat_quiz/module.json",
+    "id": "river_boat_quiz",
     "title": "Vector River Boat Problem MCQs",
     "parts": [
         {
