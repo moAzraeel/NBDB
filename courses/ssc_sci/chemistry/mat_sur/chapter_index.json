@@ -1,7 +1,7 @@
 {
-    "path": "courses/ssc_science/chemistry/matter_in_our_surroundings/chapter_index.json",
-    "id": "ssc_science",
-    "subject": "chemistry",
-    "chapter": "matter_in_our_surroundings",
+    "path": "courses/ssc_sci/chemistry/mat_sur/chapter_index.json",
+    "id": "ssc_sci",
+    "subject": "chem",
+    "chapter": "mat_sur",
     "modules": []
 }

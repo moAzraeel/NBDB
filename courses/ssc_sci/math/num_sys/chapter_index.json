@@ -1,7 +1,7 @@
 {
-    "path": "courses/ssc_science/math/number_systems/chapter_index.json",
-    "id": "ssc_science",
+    "path": "courses/ssc_sci/math/num_sys/chapter_index.json",
+    "id": "ssc_sci",
     "subject": "math",
-    "chapter": "number_systems",
+    "chapter": "num_sys",
     "modules": []
 }

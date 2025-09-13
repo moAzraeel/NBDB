@@ -1,7 +1,7 @@
 {
-    "path": "courses/ssc_science/physics/motion/chapter_index.json",
-    "id": "ssc_science",
-    "subject": "physics",
-    "chapter": "motion",
+    "path": "courses/ssc_sci/physics/mot/chapter_index.json",
+    "id": "ssc_sci",
+    "subject": "phy",
+    "chapter": "mot",
     "modules": []
 }
