@@ -3,6 +3,60 @@
     "id": "hsc_sci",
     "subject": "phy",
     "chapter": "vec",
+    "practice": [
+        {
+            "nameen": "Vector Dot and Cross Quiz",
+            "namebn": "ভেক্টর ডট ও ক্রস কুইজ",
+            "id": "dot_cross_quiz",
+            "descriptionen": "Quiz or quick reference for dot and cross product.",
+            "descriptionbn": "ডট এবং ক্রস প্রোডাক্টের জন্য কুইজ বা দ্রুত রেফারেন্স।",
+            "asset": "useThisCross.gif",
+            "isPremium": true
+        },
+        {
+            "nameen": "Vector River and Boat Quiz",
+            "namebn": "ভেক্টর নদী ও নৌকা কুইজ",
+            "id": "river_boat_quiz",
+            "descriptionen": "Quiz or quick reference for river boat problems.",
+            "descriptionbn": "নদী নৌকার সমস্যার জন্য কুইজ বা দ্রুত রেফারেন্স।",
+            "asset": "module.json",
+            "isPremium": true
+        }
+    ],
+    "test": [
+        {
+            "nameen": "SSC Exam Questions",
+            "namebn": "এসএসসি পরীক্ষার প্রশ্ন",
+            "descriptionen": "Questions from SSC board exams.",
+            "descriptionbn": "এসএসসি বোর্ড পরীক্ষার প্রশ্ন।",
+            "asset": "ssc_questions.json",
+            "isPremium": false
+        },
+        {
+            "nameen": "Main Book Questions",
+            "namebn": "মূল বইয়ের প্রশ্ন",
+            "descriptionen": "Questions from the main textbook for in-depth understanding.",
+            "descriptionbn": "গভীরভাবে বোঝার জন্য মূল পাঠ্যবইয়ের প্রশ্ন।",
+            "asset": "main_book_questions.json",
+            "isPremium": false
+        },
+        {
+            "nameen": "Renowned School Questions",
+            "namebn": "প্রখ্যাত স্কুল প্রশ্ন",
+            "descriptionen": "Common questions asked in school assessments.",
+            "descriptionbn": "স্কুল মূল্যায়নে সাধারণত জিজ্ঞাসিত প্রশ্ন।",
+            "asset": "school_questions.json",
+            "isPremium": false
+        },
+        {
+            "nameen": "College Admission Questions",
+            "namebn": "কলেজ ভর্তি প্রশ্ন",
+            "descriptionen": "Questions from previous year papers for college admission tests.",
+            "descriptionbn": "কলেজ ভর্তি পরীক্ষার পূর্ববর্তী বছরের প্রশ্ন।",
+            "asset": "college_admission.json",
+            "isPremium": true
+        }
+    ],
     "modules": [
         {
             "nameen": "Vector Dot and Cross",
@@ -30,24 +84,6 @@
             "descriptionbn": "ভেক্টর ক্যালকুলাস ধারণা এবং দৃশ্যায়ন অন্তর্ভুক্ত করে।",
             "asset": "curl.gif",
             "isPremium": false
-        },
-        {
-            "nameen": "Vector Dot and Cross Quiz",
-            "namebn": "ভেক্টর ডট ও ক্রস কুইজ",
-            "id": "dot_cross_quiz",
-            "descriptionen": "Quiz or quick reference for dot and cross product.",
-            "descriptionbn": "ডট এবং ক্রস প্রোডাক্টের জন্য কুইজ বা দ্রুত রেফারেন্স।",
-            "asset": "useThisCross.gif",
-            "isPremium": true
-        },
-        {
-            "nameen": "Vector River and Boat Quiz",
-            "namebn": "ভেক্টর নদী ও নৌকা কুইজ",
-            "id": "river_boat_quiz",
-            "descriptionen": "Quiz or quick reference for river boat problems.",
-            "descriptionbn": "নদী নৌকার সমস্যার জন্য কুইজ বা দ্রুত রেফারেন্স।",
-            "asset": "module.json",
-            "isPremium": true
         }
     ]
 }
