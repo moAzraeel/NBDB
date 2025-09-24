@@ -25,6 +25,7 @@
     ],
     "test": [
         {
+            "id": "ssc_exam_questions",
             "nameen": "SSC Exam Questions",
             "namebn": "এসএসসি পরীক্ষার প্রশ্ন",
             "descriptionen": "Questions from SSC board exams.",
@@ -33,6 +34,7 @@
             "isPremium": false
         },
         {
+            "id": "main_book_questions",
             "nameen": "Main Book Questions",
             "namebn": "মূল বইয়ের প্রশ্ন",
             "descriptionen": "Questions from the main textbook for in-depth understanding.",
@@ -41,6 +43,7 @@
             "isPremium": false
         },
         {
+            "id": "renowned_school_questions",
             "nameen": "Renowned School Questions",
             "namebn": "প্রখ্যাত স্কুল প্রশ্ন",
             "descriptionen": "Common questions asked in school assessments.",
@@ -49,6 +52,7 @@
             "isPremium": false
         },
         {
+            "id": "college_admission_questions",
             "nameen": "College Admission Questions",
             "namebn": "কলেজ ভর্তি প্রশ্ন",
             "descriptionen": "Questions from previous year papers for college admission tests.",
