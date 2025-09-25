@@ -9,16 +9,6 @@
                     "nameen": "Science",
                     "namebn": "বিজ্ঞান",
                     "id": "sci"
-                },
-                {
-                    "nameen": "Commerce",
-                    "namebn": "ব্যবসায় শিক্ষা",
-                    "id": "com"
-                },
-                {
-                    "nameen": "Arts",
-                    "namebn": "মানবিক",
-                    "id": "art"
                 }
             ]
         },
@@ -31,69 +21,6 @@
                     "nameen": "Science",
                     "namebn": "বিজ্ঞান",
                     "id": "sci"
-                },
-                {
-                    "nameen": "Commerce",
-                    "namebn": "ব্যবসায় শিক্ষা",
-                    "id": "com"
-                },
-                {
-                    "nameen": "Arts",
-                    "namebn": "মানবিক",
-                    "id": "art"
-                }
-            ]
-        },
-        {
-            "levelen": "Class 8",
-            "levelbn": "৮ম শ্রেণি",
-            "id": "c8",
-            "paths": [
-                {
-                    "nameen": "General",
-                    "namebn": "সাধারণ",
-                    "id": "gen"
-                }
-            ]
-        },
-        {
-            "levelen": "Class 7",
-            "levelbn": "৭ম শ্রেণি",
-            "id": "c7",
-            "paths": [
-                {
-                    "nameen": "General",
-                    "namebn": "সাধারণ",
-                    "id": "gen"
-                }
-            ]
-        },
-        {
-            "levelen": "Class 6",
-            "levelbn": "৬ষ্ঠ শ্রেণি",
-            "id": "c6",
-            "paths": [
-                {
-                    "nameen": "General",
-                    "namebn": "সাধারণ",
-                    "id": "gen"
-                }
-            ]
-        },
-        {
-            "levelen": "Job Exams",
-            "levelbn": "চাকরির পরীক্ষা",
-            "id": "job",
-            "paths": [
-                {
-                    "nameen": "BCS",
-                    "namebn": "বিসিএস",
-                    "id": "bcs"
-                },
-                {
-                    "nameen": "SSC",
-                    "namebn": "এসএসসি",
-                    "id": "ssc_j"
                 }
             ]
         }

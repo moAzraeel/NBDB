@@ -38,56 +38,6 @@
         }
       ],
       "initiallyExpanded": false
-    },
-    {
-      "subjecten": "Math",
-      "subjectbn": "গণিত",
-      "id": "math",
-      "iconName": {
-        "codePoint": 60318,
-        "fontFamily": "Remix",
-        "fontPackage": "remixicon",
-        "matchTextDirection": false
-      },
-      "chapters": [
-        {
-          "chapteren": "Number Systems",
-          "chapterbn": "সংখ্যা পদ্ধতি",
-          "id": "num_sys",
-          "iconName": {
-            "codePoint": 61425,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
-        }
-      ],
-      "initiallyExpanded": false
-    },
-    {
-      "subjecten": "Chemistry",
-      "subjectbn": "রসায়ন",
-      "id": "chem",
-      "iconName": {
-        "codePoint": 60115,
-        "fontFamily": "Remix",
-        "fontPackage": "remixicon",
-        "matchTextDirection": false
-      },
-      "chapters": [
-        {
-          "chapteren": "Matter in Our Surroundings",
-          "chapterbn": "আমাদের চারপাশের পদার্থ",
-          "id": "mat_sur",
-          "iconName": {
-            "codePoint": 61670,
-            "fontFamily": "Remix",
-            "fontPackage": "remixicon",
-            "matchTextDirection": false
-          }
-        }
-      ],
-      "initiallyExpanded": false
     }
   ]
 }
