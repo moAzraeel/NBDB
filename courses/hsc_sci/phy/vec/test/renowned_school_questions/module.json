@@ -1,40 +1,46 @@
-[
-    {
-        "id": 1,
-        "question": "ত্বরণের একক কী?",
-        "options": [
-            "মিটার/সেকেন্ড²",
-            "মিটার/সেকেন্ড",
-            "কেজি",
-            "নিউটন"
-        ],
-        "answer": "মিটার/সেকেন্ড²",
-        "tags": [
-            "একক",
-            "ত্বরণ"
-        ],
-        "source": [
-            "JB '20"
-        ]
-    },
-    {
-        "id": 2,
-        "question": "নিউটনের দ্বিতীয় সূত্র কী?",
-        "options": [
-            "F=ma",
-            "E=mc²",
-            "V=IR",
-            "P=IV"
-        ],
-        "answer": "F=ma",
-        "tags": [
-            "নিউটন",
-            "সূত্র",
-            "ত্বরণ"
-        ],
-        "source": [
-            "MB '20",
-            "RB '21"
-        ]
-    }
-]
+{
+    "path": "courses/hsc_sci/phy/vec/test/renowned_school_questions/module.json",
+    "id": "renowned_school_questions",
+    "titleen": "Renowned School Questions",
+    "titlebn": "প্রখ্যাত স্কুল প্রশ্ন",
+    "parts": [
+        {
+            "id": 1,
+            "question": "ত্বরণের একক কী?",
+            "options": [
+                "মিটার/সেকেন্ড²",
+                "মিটার/সেকেন্ড",
+                "কেজি",
+                "নিউটন"
+            ],
+            "answer": "মিটার/সেকেন্ড²",
+            "tags": [
+                "একক",
+                "ত্বরণ"
+            ],
+            "source": [
+                "JB '20"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "নিউটনের দ্বিতীয় সূত্র কী?",
+            "options": [
+                "F=ma",
+                "E=mc²",
+                "V=IR",
+                "P=IV"
+            ],
+            "answer": "F=ma",
+            "tags": [
+                "নিউটন",
+                "সূত্র",
+                "ত্বরণ"
+            ],
+            "source": [
+                "MB '20",
+                "RB '21"
+            ]
+        }
+    ]
+}

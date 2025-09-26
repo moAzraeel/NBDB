@@ -30,7 +30,7 @@
             "namebn": "এসএসসি পরীক্ষার প্রশ্ন",
             "descriptionen": "Questions from SSC board exams.",
             "descriptionbn": "এসএসসি বোর্ড পরীক্ষার প্রশ্ন।",
-            "asset": "ssc_questions.json",
+            "asset": "module.json",
             "isPremium": false
         },
         {
@@ -39,7 +39,7 @@
             "namebn": "মূল বইয়ের প্রশ্ন",
             "descriptionen": "Questions from the main textbook for in-depth understanding.",
             "descriptionbn": "গভীরভাবে বোঝার জন্য মূল পাঠ্যবইয়ের প্রশ্ন।",
-            "asset": "main_book_questions.json",
+            "asset": "module.json",
             "isPremium": false
         },
         {
@@ -48,7 +48,7 @@
             "namebn": "প্রখ্যাত স্কুল প্রশ্ন",
             "descriptionen": "Common questions asked in school assessments.",
             "descriptionbn": "স্কুল মূল্যায়নে সাধারণত জিজ্ঞাসিত প্রশ্ন।",
-            "asset": "school_questions.json",
+            "asset": "module.json",
             "isPremium": false
         },
         {
@@ -57,7 +57,7 @@
             "namebn": "কলেজ ভর্তি প্রশ্ন",
             "descriptionen": "Questions from previous year papers for college admission tests.",
             "descriptionbn": "কলেজ ভর্তি পরীক্ষার পূর্ববর্তী বছরের প্রশ্ন।",
-            "asset": "college_admission.json",
+            "asset": "module.json",
             "isPremium": true
         }
     ],
